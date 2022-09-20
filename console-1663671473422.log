@@ -1,0 +1,41 @@
+var a ;
+undefined
+typeof a;
+'undefined'
+a=100;
+100
+typeof a;
+'number'
+a=100.20;
+100.2
+typeof a;
+'number'
+a=1;
+1
+typeof a;
+'number'
+a=10000000000;
+10000000000
+typeof a;
+'number'
+a='Amit';
+'Amit'
+typeof a;
+'string'
+a=true;
+true
+typeof a;
+'boolean'
+a;
+true
+a='amit';
+'amit'
+typeof a;
+'string'
+a++;
+NaN
+if(typeof a =='number'){
+    a++;
+}
+
+NaN
